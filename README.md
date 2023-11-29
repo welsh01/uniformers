@@ -20,12 +20,12 @@ character-level tasks such as style-conditioned poetry generation.
 If you want to use this project as a library you can install it as a regular
 package using [pip](https://pip.pypa.io/en/stable):
 ```sh
-pip install 'git+https://github.com/potamides/uniformers.git#egg=uniformers'
+pip install 'git+https://github.com/welsh01/uniformers#egg=uniformers'
 ```
 If your goal is to run the included [examples](examples) (e.g., to reproduce
 results) clone the repository and install it in editable mode:
  ```sh
-git clone https://github.com/potamides/uniformers
+git clone https://github.com/welsh01/uniformers
 pip install -e uniformers[examples]
  ```
 
